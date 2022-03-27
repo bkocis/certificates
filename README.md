@@ -11,24 +11,33 @@ ______
 
 ## Deep Learning Courses
 
-- [Deep Learning (Udacity)]() ([📜]())
+- [Deep Learning (Udacity)](https://www.udacity.com/course/deep-learning-nanodegree--nd101) ([📜](https://graduation.udacity.com/confirm/6EJKU62G))
 
 - [Tensorflow Developer (Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice) ([📜](https://coursera.org/share/2afa85bbb2f03516bd95ef8479446e1e))
 
-- [Deep Learning Track (DataCamp)]() ([📜](https://www.datacamp.com/statement-of-accomplishment/track/0f1d4807ffd7d5902f9dde55198fa018be0c6305)) 
+- [Deep Learning Track (DataCamp)](https://app.datacamp.com/learn/skill-tracks/deep-learning-in-python) ([📜](https://www.datacamp.com/statement-of-accomplishment/track/0f1d4807ffd7d5902f9dde55198fa018be0c6305)) 
+
+## Reinforcement Learning Courses
+
+- [Deep Reinforcement Learning (Udacity)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) ([📜](https://graduation.udacity.com/confirm/94GUPQ5F))
 
 ## Computer Vision Courses
 
-- [Computer Vision (Udacity)]() ([📜]())
+- [Computer Vision (Udacity)](https://www.udacity.com/course/computer-vision-nanodegree--nd891) ([📜](https://graduation.udacity.com/confirm/DVEJCJ2F))
 
 ## Deployment and ML Systems 
 
-- [Cloud DevOps Engineer Udacity]() ([]())
+- [Cloud DevOps Engineer Udacity](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991) ([📜](https://graduation.udacity.com/confirm/9KEALLXK))
 
 ## Machine Learning 
+
+- [AWS Machine Learning Foundations]() ([📜](https://confirm.udacity.com/6ZCAPJWP))
 
 ----
 
 ## Community Projects
 
-- 
+- [Omdena -  Detecting Violence Between Caregivers and Elderly/Children Using Computer Vision and Deep Learning]()
+
+- [Omdena - Estimate Biomass of Fish for Sustainable Food Production Using Computer Vision](./certs/Omdena_Fish_Biomass_Certificate_Balazs%20Kocsis.pdf)
+
