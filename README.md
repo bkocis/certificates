@@ -33,11 +33,4 @@ ______
 
 - [AWS Machine Learning Foundations]() ([📜](https://confirm.udacity.com/6ZCAPJWP))
 
-----
-
-## Community Projects
-
-- [Omdena -  Detecting Violence Between Caregivers and Elderly/Children Using Computer Vision and Deep Learning]()
-
-- [Omdena - Estimate Biomass of Fish for Sustainable Food Production Using Computer Vision](./certs/Omdena_Fish_Biomass_Certificate_Balazs%20Kocsis.pdf)
 
